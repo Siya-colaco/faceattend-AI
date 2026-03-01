@@ -58,11 +58,6 @@ This project was built to make attendance marking faster, smarter and completely
 1. Attendance is marked automatically with time
 1. Export attendance as CSV file anytime
 
------
-
-## 🌐 Live Demo
-
-[Click here to view live demo](https://yourusername.github.io/FaceAttend-AI)
 
 -----
 
